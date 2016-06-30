@@ -1,0 +1,21 @@
+{
+  "name": "mycommunity-app",
+  "version": "0.1.0",
+  "description": "Community Reporting Backend Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/csjoblom/mycommunity"
+  },
+  "keywords": [
+    "reporting",
+    "api",
+    "frontend",
+    "backend"
+  ],
+  "author": "Chris Sjoblom",
+  "license": "MIT"
+}
